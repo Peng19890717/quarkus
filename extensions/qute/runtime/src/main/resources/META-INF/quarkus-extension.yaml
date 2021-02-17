@@ -7,5 +7,5 @@ metadata:
   guide: "https://quarkus.io/guides/qute"
   categories:
   - "miscellaneous"
-  status: "experimental"
+  status: "stable"
   codestart: "qute"

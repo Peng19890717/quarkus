@@ -4,7 +4,7 @@ and pull requests should be submitted there:
 https://github.com/quarkusio/quarkus/tree/master/docs/src/main/asciidoc
 ////
 = Qute Templating Engine
-:extension-status: experimental
+:extension-status: stable
 
 include::./attributes.adoc[]
 

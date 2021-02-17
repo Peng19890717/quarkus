@@ -11,7 +11,7 @@ include::./attributes.adoc[]
 :sectnums:
 :sectnumlevels: 4
 :toc:
-:extension-status: experimental
+:extension-status: stable
 
 include::./status-include.adoc[]
 
